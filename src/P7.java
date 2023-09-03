@@ -20,7 +20,11 @@ public class P7 {
     }
 
     public static void main(String[] args) {
-        int[]arr={2,3,4,6,5};
-        System.out.println(ans(4,5,arr));
+//        int[]arr={2,3,4,6,5};
+        int i=0;
+        while(true){
+            System.out.println(i++);
+        }
+//        System.out.println(ans(4,5,arr));
     }
 }
